@@ -25,6 +25,7 @@ These are some of the books on different categories I've read and plan to read.
   - [8. Continuous Integration \& Continuous Deployment/Delivery](#8-continuous-integration--continuous-deploymentdelivery)
   - [9. Observability](#9-observability)
   - [10. General](#10-general)
+- [Resume](#resume)
 - [Personal Growth](#personal-growth)
 
 ## Core CS
@@ -146,6 +147,9 @@ TODO: Add book(s)
    - Effective DevOps (O’Reilly)
    - The DevOps Career Handbook by John Knight and Nate Swenson (Packt Publications)
    - Site Reliability Engineering (O'Reilly)
+
+## Resume
+- The Tech Resume Inside Out by Gergely Orosz
 
 ## Personal Growth
 - The 5AM Club by Robin Sharma
