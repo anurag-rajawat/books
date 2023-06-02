@@ -30,136 +30,137 @@ These are some of the books on different categories I've read and plan to read.
 
 ## Core CS
 ### 1. Mathematics
-- Discrete Mathematics by Oscar Levin (3rd edition)
-- Mathematics for Computer Science by Eric Lehman and Tom Leighton (MIT 6.042)
-- Concrete Mathematics by Ronald L. Graham, Donald E. Knuth and Oren Patashnik (2nd edition)
+- [Discrete Mathematics](https://discrete.openmathbooks.org/pdfs/dmoi-tablet.pdf) by Oscar Levin (3rd edition)
+- [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf) by Eric Lehman and Tom Leighton (MIT 6.042)
+- [Concrete Mathematics](https://www.csie.ntu.edu.tw/~r97002/temp/Concrete%20Mathematics%202e.pdf) by Ronald L. Graham, Donald E. Knuth and Oren Patashnik (2nd edition)
 
 ### 2. Programming Language(s)
 - **Java**
   - TODO: Add book
 - **Python**
-  - Learning Python by Mark Lutz (O'Reilly) (5th edition)
+  - [Learning Python](https://www.oreilly.com/library/view/learning-python-5th/9781449355722/) by Mark Lutz (O'Reilly) (5th edition)
 
 - **Go**
-  - Learning Go by Jon Bodner (O'Reilly)
-  - The Go Programming Language by Alan A. A. Donovan, Brian W. Kernighan
+  - [Learning Go](https://www.oreilly.com/library/view/learning-go/9781492077206/) by Jon Bodner (O'Reilly)
+  - [The Go Programming Language](https://www.oreilly.com/library/view/the-go-programming/9780134190570/) by Alan A. A. Donovan, Brian W. Kernighan (O'Reilly)
 
 ### 3. Data Structures & Algorithms
-- Grokking Algorithms by Aditya Y. Bhargava
-- Introduction to Algorithms (MIT) (3rd edition)
-- Elements of Programming Interviews in Java
+- [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) by Aditya Y. Bhargava (Manning Publications)
+<!-- TODO: Update edition to 4th -->
+- [Introduction to Algorithms](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/) (MIT) (3rd edition)
+- [Elements of Programming Interviews in Java](https://www.amazon.in/Elements-Programming-Interviews-Java-Insiders/dp/1517671272)
 
 ### 4. Operating System
 TODO: Add book(s)
 
 ### 5. Computer Organization & Architecture
-- Computer Organization & Design by David A. Patterson and John L. Hennessy (5th edition)
+- [Computer Organization & Design](https://www.amazon.in/Computer-Organization-Design-MIPS-Architecture/dp/0124077269) by David A. Patterson and John L. Hennessy (5th edition)
 
 ### 6. Database Management System
 TODO: Add book(s)
 
 ## Software Engineering
-- Software Engineering at Google (O'Reilly)
-- The Pragmatic Programmer by Andrew Hunt David Hurst Thomas
-- Skills of a Successful Software Engineer by Fernando Doglio (Manning Publications)
-- Clean Architecture by Robert C. Martin
-- Clean Code by Robert C Martin
-- Own Your Tech Career by Don Jones (Manning Publications)
-- Software Architecture by Neal Ford, Mark Richards, Pramod Sadalage, and Zhamak Dehghani (O'Reilly)
+- [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/) (O'Reilly)
+- [The Pragmatic Programmer](https://www.amazon.in/Pragmatic-Programmer-journey-mastery-Anniversary-dp-0135957052/dp/0135957052/ref=dp_ob_title_bk) by Andrew Hunt David Hurst Thomas
+- [Skills of a Successful Software Engineer](https://www.manning.com/books/skills-of-a-successful-software-engineer) by Fernando Doglio (Manning Publications)
+- [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) by Robert C. Martin
+- [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert C Martin
+- [Own Your Tech Career](https://www.manning.com/books/own-your-tech-career) by Don Jones (Manning Publications)
+- [Software Architecture](https://www.oreilly.com/library/view/software-architecture-the/9781492086888/) by Neal Ford, Mark Richards, Pramod Sadalage, and Zhamak Dehghani (O'Reilly)
 
 ## Development
-- Designing APIs with Swagger & OpenAPI (Manning Publications)
-- Full Stack GraphQL Applications by William Lyon (Manning Publications)
-- RabbitMQ in Depth by Gavin M. Roy (Manning Publications)
-- BDD in action by John Ferguson Smart, Jan Molak (Manning Publications)
-- The Modern Guide to OAuth by Brian Pontarelli and Dan Moore
+- [Designing APIs with Swagger & OpenAPI](https://www.manning.com/books/designing-apis-with-swagger-and-openapi) (Manning Publications)
+- [Full Stack GraphQL Applications](https://www.manning.com/books/fullstack-graphql-applications) by William Lyon (Manning Publications)
+- [RabbitMQ in Depth](https://www.manning.com/books/rabbitmq-in-depth) by Gavin M. Roy (Manning Publications)
+- [BDD in action](https://www.manning.com/books/bdd-in-action) by John Ferguson Smart, Jan Molak (Manning Publications)
+- [The Modern Guide to OAuth](https://fusionauth.io/resources/the-modern-guide-to-oauth.pdf) by Brian Pontarelli and Dan Moore
 
 ## Data
-- Event Stream in Action by Alexander Dean Valentin Crettaz (Manning Publications)
-- Streaming Data by Andrew G. Psaltis (Manning Publications)
-- Parallel & High Performance Computing by Robert Robey, Yuliana Zamora (Manning Publications)
-- Kafka Stream in Action by William P. Bejeck Jr. (Manning Publications)
-- Kafka in Action by Dylan Scott, Viktor Gamov, Dave Klein (Manning Publications)
+- [Event Stream in Action](https://www.manning.com/books/event-streams-in-action) by Alexander Dean Valentin Crettaz (Manning Publications)
+- [Streaming Data](https://www.manning.com/books/streaming-data) by Andrew G. Psaltis (Manning Publications)
+- [Parallel & High Performance Computing](https://www.manning.com/books/parallel-and-high-performance-computing) by Robert Robey, Yuliana Zamora (Manning Publications)
+- [Kafka Stream in Action](https://www.manning.com/books/kafka-streams-in-action) by William P. Bejeck Jr. (Manning Publications)
+- [Kafka in Action](https://www.manning.com/books/kafka-in-action) by Dylan Scott, Viktor Gamov, Dave Klein (Manning Publications)
 
 ## Operations & Cloud
-- Knative in Action by Jacques Chester (Manning Publications)
+- [Knative in Action](https://www.manning.com/books/knative-in-action) by Jacques Chester (Manning Publications)
 
 ## Distributed Systems
-- Understanding Distributed Systems by Roberto Vitillo
-- Designing Data-Intensive Applications by Martin Kleppmann (O’Reilly)
-- Building Secure & Reliable Systems (O’Reilly)
-- Google's Bigtable Research Paper
+- [Understanding Distributed Systems](https://www.amazon.in/Understanding-Distributed-Systems-distributed-applications/dp/1838430202) by Roberto Vitillo
+- [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) by Martin Kleppmann (O’Reilly)
+- [Building Secure & Reliable Systems](https://www.oreilly.com/library/view/building-secure-and/9781492083115/) (O’Reilly)
+- [Google's Bigtable Research Paper](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
 
 ## DevOps
    ### 1. Language(s)
-   - Go for DevOps by John Doak and David Justice (Packt Publications)
+   - [Go for DevOps](https://www.packtpub.com/product/go-for-devops/9781801818896) by John Doak and David Justice (Packt Publications)
    - Learn Go or Python [refer here](#2-programming-languages)
 
    ### 2. Linux
-   - Unix and Linux System Administration Handbook (5th edition)
-   - The Practice of System and Network Administration (2nd edition)
-   - Networking for Systems Administrators
-   - Bash Notes for Professionals
-   - Advanced Shell Scripting guide
+   - [Unix and Linux System Administration Handbook](https://www.amazon.in/UNIX-Linux-System-Administration-Handbook/dp/0134277554) (5th edition)
+   - [The Practice of System and Network Administration](https://www.amazon.com/Practice-System-Network-Administration-Second/dp/0321492668) (2nd edition)
+   - [Networking for Systems Administrators](https://www.amazon.com/Networking-Systems-Administrators-Mastery-5/dp/0692376941)
+   - [Bash Notes for Professionals](https://books.goalkicker.com/BashBook/)
+   - [Advanced Shell Scripting guide](https://tldp.org/LDP/abs/abs-guide.pdf)
 
    ### 3. Containers
-   - Podman in action (Manning Publications)
+   - [Podman in action](https://www.manning.com/books/podman-in-action) (Manning Publications)
 
    ### 4. Configuration Management
-   - Ansible Up and Running (O'Reilly)
+   - [Ansible Up and Running](https://www.oreilly.com/library/view/ansible-up-and/9781491915318/) (O'Reilly)
    
    ### 5. Container Orchestration
-   - Kubernetes in Action by Marko Luksa (Manning Publications)
-   - Kubernetes Up and Running by Brendan Burns, Joe Beda and Kelsey Hightower (O'Reilly)
+   - [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action) by Marko Luksa (Manning Publications)
+   - [Kubernetes Up and Running](https://www.oreilly.com/library/view/kubernetes-up-and/9781098110192/) by Brendan Burns, Joe Beda and Kelsey Hightower (O'Reilly)
    
    - **Kubernetes Networking**
-     - Kubernetes Networking by James Strong and Vallery Lancey (O'Reilly)
+     - [Kubernetes Networking](https://www.oreilly.com/library/view/networking-and-kubernetes/9781492081647/) by James Strong and Vallery Lancey (O'Reilly)
 
    - **Kubernetes Security**
-     - Kubernetes Security & Observability by Brendan Creane and Amit Gupta (O'Reilly)
+     - [Kubernetes Security & Observability](https://www.oreilly.com/library/view/kubernetes-security-and/9781098107093/) by Brendan Creane and Amit Gupta (O'Reilly)
 
    ### 6. Infrastructure as Code
-   - Terraform Up and Running by Yevgeniy Brikman (O'Reilly)
-   - Infrastructure as Code by Kief Morris (O'Reilly)
-   - Infrastructure as Code, Patterns and Practices by Rosemary Wang (Manning Publications)
+   - [Terraform Up and Running](https://www.oreilly.com/library/view/terraform-up-and/9781098116736/) by Yevgeniy Brikman (O'Reilly)
+   - [Infrastructure as Code](https://www.oreilly.com/library/view/infrastructure-as-code/9781098114664/) by Kief Morris (O'Reilly)
+   - [Infrastructure as Code, Patterns and Practices](https://www.manning.com/books/infrastructure-as-code-patterns-and-practices) by Rosemary Wang (Manning Publications)
 
    ### 7. Service Mesh
-   - Istio in Action (Manning Publications)
+   - [Istio in Action](https://www.manning.com/books/istio-in-action) (Manning Publications)
 
    ### 8. Continuous Integration & Continuous Deployment/Delivery
-   - Grokking Continuous Delivery by Christie Wilson (Manning Publications)
+   - [Grokking Continuous Delivery](https://www.manning.com/books/grokking-continuous-delivery) by Christie Wilson (Manning Publications)
 
    ### 9. Observability
-   - Cloud-Native Observability with OpenTelemetry by Alex Boten (Packt Publications)
+   - [Cloud-Native Observability with OpenTelemetry](https://www.packtpub.com/product/cloud-native-observability-with-opentelemetry/9781801077705) by Alex Boten (Packt Publications)
   
-   - Software Telemetry by Jamie Riedesel (Manning Publications)
+   - [Software Telemetry](https://www.manning.com/books/software-telemetry) by Jamie Riedesel (Manning Publications)
 
    - **Tracing**
-     - Distributed Tracing in Practice (O'Reilly)
-     - Mastering Distributed Tracing by Yuri Shkuro (Packt Publications)
+     - [Distributed Tracing in Practice](https://www.oreilly.com/library/view/distributed-tracing-in/9781492056621/) (O'Reilly)
+     - [Mastering Distributed Tracing](https://www.packtpub.com/product/mastering-distributed-tracing/9781788628464) by Yuri Shkuro (Packt Publications)
   
    - **Logging**
-     - Logging in Action (Manning Publications)
+     - [Logging in Action](https://www.manning.com/books/logging-in-action) (Manning Publications)
 
    ### 10. General
-   - The DevOps Handbook
-   - The Phoenix Project
-   - Effective DevOps (O’Reilly)
-   - The DevOps Career Handbook by John Knight and Nate Swenson (Packt Publications)
-   - Site Reliability Engineering (O'Reilly)
+   - [The DevOps Handbook](https://www.amazon.in/DevOPS-Handbook-World-Class-Reliability-Organizations/dp/1942788002)
+   - [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
+   - [Effective DevOps](https://www.oreilly.com/library/view/effective-devops/9781491926291/) (O’Reilly)
+   - [The DevOps Career Handbook](https://www.packtpub.com/product/the-devops-career-handbook/9781803230948) by John Knight and Nate Swenson (Packt Publications)
+   - [Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/) (O'Reilly)
 
 ## Resume
-- The Tech Resume Inside Out by Gergely Orosz
+- [The Tech Resume Inside Out](https://thetechresume.com) by Gergely Orosz
 
 ## Personal Growth
-- The 5AM Club by Robin Sharma
-- Rich Dad Poor Dad by Robert T. Kiyosaki
-- Think and Grow Rich
-- Atomic Habits
-- No Excuses! The Power of Self-Discipline by Brian Tracy
-- The 10 X Rule by Grant Cardone
-- Not Nice by Dr. Aziz Gazipura
-- The 80/20 Principle by Richard Koch
-- Steal Like an Artist by Austin Kleon
-- Dopamine Detox by Thibaut Meurisse
-- Money Master the Game by Tony Robbins
+- [The 5AM Club](https://www.amazon.com/AM-Club-Morning-Elevate-Life/dp/1443456624) by Robin Sharma
+- [Rich Dad Poor Dad](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680194) by Robert T. Kiyosaki
+- [Think and Grow Rich](https://www.amazon.in/Think-Grow-Rich-Landmark-Bestseller/dp/1585424331)
+- [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)
+- [No Excuses!](https://www.amazon.com/No-Excuses-Self-Discipline-Brian-Tracy/dp/1593156324) The Power of Self-Discipline by Brian Tracy
+- [The 10 X Rule](https://www.amazon.in/10X-Rule-Difference-Between-Success/dp/0470627603) by Grant Cardone
+- [Not Nice](https://www.amazon.in/Not-Nice-Pleasing-Speaking-Unapologetically-ebook/dp/B076VVH14M) by Dr. Aziz Gazipura
+- [The 80/20 Principle](https://www.amazon.in/80-20-Principle-Secret-Achieving/dp/1857883993) by Richard Koch
+- [Steal Like an Artist](https://www.amazon.in/Steal-Like-Artist-Austin-Kleon/dp/0761169253) by Austin Kleon
+- [Dopamine Detox](https://www.amazon.in/Dopamine-Detox-Remove-Distractions-Productivity-ebook/dp/B098MHBF23) by Thibaut Meurisse
+- [Money Master the Game](https://www.amazon.com/MONEY-Master-Game-Financial-Freedom/dp/1476757860) by Tony Robbins
