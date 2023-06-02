@@ -46,8 +46,7 @@ These are some of the books on different categories I've read and plan to read.
 
 ### 3. Data Structures & Algorithms
 - [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) by Aditya Y. Bhargava (Manning Publications)
-<!-- TODO: Update edition to 4th -->
-- [Introduction to Algorithms](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/) (MIT) (3rd edition)
+- [Introduction to Algorithms](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/) (MIT) (4th edition)
 - [Elements of Programming Interviews in Java](https://www.amazon.in/Elements-Programming-Interviews-Java-Insiders/dp/1517671272)
 
 ### 4. Operating System
