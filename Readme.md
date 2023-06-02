@@ -1,5 +1,9 @@
-# Books
+# Books 📚
 These are some of the books on different categories I've read and plan to read.
+
+# Status
+## Reading - 📖
+## Read - ✅
 
 # Categories
 - [Core CS](#core-cs)
@@ -30,8 +34,8 @@ These are some of the books on different categories I've read and plan to read.
 
 ## Core CS
 ### 1. Mathematics
-- [Discrete Mathematics](https://discrete.openmathbooks.org/pdfs/dmoi-tablet.pdf) by Oscar Levin (3rd edition)
-- [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf) by Eric Lehman and Tom Leighton (MIT 6.042)
+- [Discrete Mathematics](https://discrete.openmathbooks.org/pdfs/dmoi-tablet.pdf) by Oscar Levin (3rd edition) ✅
+- [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf) by Eric Lehman and Tom Leighton (MIT 6.042) ✅
 - [Concrete Mathematics](https://www.csie.ntu.edu.tw/~r97002/temp/Concrete%20Mathematics%202e.pdf) by Ronald L. Graham, Donald E. Knuth and Oren Patashnik (2nd edition)
 
 ### 2. Programming Language(s)
@@ -41,13 +45,13 @@ These are some of the books on different categories I've read and plan to read.
   - [Learning Python](https://www.oreilly.com/library/view/learning-python-5th/9781449355722/) by Mark Lutz (O'Reilly) (5th edition)
 
 - **Go**
-  - [Learning Go](https://www.oreilly.com/library/view/learning-go/9781492077206/) by Jon Bodner (O'Reilly)
-  - [The Go Programming Language](https://www.oreilly.com/library/view/the-go-programming/9780134190570/) by Alan A. A. Donovan, Brian W. Kernighan (O'Reilly)
+  - [Learning Go](https://www.oreilly.com/library/view/learning-go/9781492077206/) by Jon Bodner (O'Reilly) ✅
+  - [The Go Programming Language](https://www.oreilly.com/library/view/the-go-programming/9780134190570/) by Alan A. A. Donovan, Brian W. Kernighan (O'Reilly) ✅
 
 ### 3. Data Structures & Algorithms
-- [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) by Aditya Y. Bhargava (Manning Publications)
-- [Introduction to Algorithms](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/) (MIT) (4th edition)
-- [Elements of Programming Interviews in Java](https://www.amazon.in/Elements-Programming-Interviews-Java-Insiders/dp/1517671272)
+- [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) by Aditya Y. Bhargava (Manning Publications) ✅
+- [Introduction to Algorithms](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/) (MIT) (4th edition) 📖
+- [Elements of Programming Interviews in Java](https://www.amazon.in/Elements-Programming-Interviews-Java-Insiders/dp/1517671272) ✅
 
 ### 4. Operating System
 TODO: Add book(s)
@@ -61,18 +65,18 @@ TODO: Add book(s)
 ## Software Engineering
 - [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/) (O'Reilly)
 - [The Pragmatic Programmer](https://www.amazon.in/Pragmatic-Programmer-journey-mastery-Anniversary-dp-0135957052/dp/0135957052/ref=dp_ob_title_bk) by Andrew Hunt David Hurst Thomas
-- [Skills of a Successful Software Engineer](https://www.manning.com/books/skills-of-a-successful-software-engineer) by Fernando Doglio (Manning Publications)
+- [Skills of a Successful Software Engineer](https://www.manning.com/books/skills-of-a-successful-software-engineer) by Fernando Doglio (Manning Publications) ✅
 - [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) by Robert C. Martin
-- [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert C Martin
+- [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert C Martin ✅
 - [Own Your Tech Career](https://www.manning.com/books/own-your-tech-career) by Don Jones (Manning Publications)
 - [Software Architecture](https://www.oreilly.com/library/view/software-architecture-the/9781492086888/) by Neal Ford, Mark Richards, Pramod Sadalage, and Zhamak Dehghani (O'Reilly)
 
 ## Development
-- [Designing APIs with Swagger & OpenAPI](https://www.manning.com/books/designing-apis-with-swagger-and-openapi) (Manning Publications)
+- [Designing APIs with Swagger & OpenAPI](https://www.manning.com/books/designing-apis-with-swagger-and-openapi) (Manning Publications) 📖
 - [Full Stack GraphQL Applications](https://www.manning.com/books/fullstack-graphql-applications) by William Lyon (Manning Publications)
 - [RabbitMQ in Depth](https://www.manning.com/books/rabbitmq-in-depth) by Gavin M. Roy (Manning Publications)
 - [BDD in action](https://www.manning.com/books/bdd-in-action) by John Ferguson Smart, Jan Molak (Manning Publications)
-- [The Modern Guide to OAuth](https://fusionauth.io/resources/the-modern-guide-to-oauth.pdf) by Brian Pontarelli and Dan Moore
+- [The Modern Guide to OAuth](https://fusionauth.io/resources/the-modern-guide-to-oauth.pdf) by Brian Pontarelli and Dan Moore ✅
 
 ## Data
 - [Event Stream in Action](https://www.manning.com/books/event-streams-in-action) by Alexander Dean Valentin Crettaz (Manning Publications)
@@ -85,14 +89,14 @@ TODO: Add book(s)
 - [Knative in Action](https://www.manning.com/books/knative-in-action) by Jacques Chester (Manning Publications)
 
 ## Distributed Systems
-- [Understanding Distributed Systems](https://www.amazon.in/Understanding-Distributed-Systems-distributed-applications/dp/1838430202) by Roberto Vitillo
+- [Understanding Distributed Systems](https://www.amazon.in/Understanding-Distributed-Systems-distributed-applications/dp/1838430202) by Roberto Vitillo ✅
 - [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) by Martin Kleppmann (O’Reilly)
 - [Building Secure & Reliable Systems](https://www.oreilly.com/library/view/building-secure-and/9781492083115/) (O’Reilly)
 - [Google's Bigtable Research Paper](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
 
 ## DevOps
    ### 1. Language(s)
-   - [Go for DevOps](https://www.packtpub.com/product/go-for-devops/9781801818896) by John Doak and David Justice (Packt Publications)
+   - [Go for DevOps](https://www.packtpub.com/product/go-for-devops/9781801818896) by John Doak and David Justice (Packt Publications) ✅
    - Learn Go or Python [refer here](#2-programming-languages)
 
    ### 2. Linux
@@ -109,8 +113,8 @@ TODO: Add book(s)
    - [Ansible Up and Running](https://www.oreilly.com/library/view/ansible-up-and/9781491915318/) (O'Reilly)
    
    ### 5. Container Orchestration
-   - [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action) by Marko Luksa (Manning Publications)
-   - [Kubernetes Up and Running](https://www.oreilly.com/library/view/kubernetes-up-and/9781098110192/) by Brendan Burns, Joe Beda and Kelsey Hightower (O'Reilly)
+   - [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action) by Marko Luksa (Manning Publications) ✅
+   - [Kubernetes Up and Running](https://www.oreilly.com/library/view/kubernetes-up-and/9781098110192/) by Brendan Burns, Joe Beda and Kelsey Hightower (O'Reilly) ✅
    
    - **Kubernetes Networking**
      - [Kubernetes Networking](https://www.oreilly.com/library/view/networking-and-kubernetes/9781492081647/) by James Strong and Vallery Lancey (O'Reilly)
@@ -136,16 +140,16 @@ TODO: Add book(s)
 
    - **Tracing**
      - [Distributed Tracing in Practice](https://www.oreilly.com/library/view/distributed-tracing-in/9781492056621/) (O'Reilly)
-     - [Mastering Distributed Tracing](https://www.packtpub.com/product/mastering-distributed-tracing/9781788628464) by Yuri Shkuro (Packt Publications)
+     - [Mastering Distributed Tracing](https://www.packtpub.com/product/mastering-distributed-tracing/9781788628464) by Yuri Shkuro (Packt Publications) ✅
   
    - **Logging**
      - [Logging in Action](https://www.manning.com/books/logging-in-action) (Manning Publications)
 
    ### 10. General
    - [The DevOps Handbook](https://www.amazon.in/DevOPS-Handbook-World-Class-Reliability-Organizations/dp/1942788002)
-   - [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
+   - [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) ✅
    - [Effective DevOps](https://www.oreilly.com/library/view/effective-devops/9781491926291/) (O’Reilly)
-   - [The DevOps Career Handbook](https://www.packtpub.com/product/the-devops-career-handbook/9781803230948) by John Knight and Nate Swenson (Packt Publications)
+   - [The DevOps Career Handbook](https://www.packtpub.com/product/the-devops-career-handbook/9781803230948) by John Knight and Nate Swenson (Packt Publications) ✅
    - [Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/) (O'Reilly)
 
 ## Resume
@@ -156,10 +160,10 @@ TODO: Add book(s)
 - [Rich Dad Poor Dad](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680194) by Robert T. Kiyosaki
 - [Think and Grow Rich](https://www.amazon.in/Think-Grow-Rich-Landmark-Bestseller/dp/1585424331)
 - [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)
-- [No Excuses!](https://www.amazon.com/No-Excuses-Self-Discipline-Brian-Tracy/dp/1593156324) The Power of Self-Discipline by Brian Tracy
-- [The 10 X Rule](https://www.amazon.in/10X-Rule-Difference-Between-Success/dp/0470627603) by Grant Cardone
-- [Not Nice](https://www.amazon.in/Not-Nice-Pleasing-Speaking-Unapologetically-ebook/dp/B076VVH14M) by Dr. Aziz Gazipura
-- [The 80/20 Principle](https://www.amazon.in/80-20-Principle-Secret-Achieving/dp/1857883993) by Richard Koch
-- [Steal Like an Artist](https://www.amazon.in/Steal-Like-Artist-Austin-Kleon/dp/0761169253) by Austin Kleon
-- [Dopamine Detox](https://www.amazon.in/Dopamine-Detox-Remove-Distractions-Productivity-ebook/dp/B098MHBF23) by Thibaut Meurisse
+- [No Excuses!](https://www.amazon.com/No-Excuses-Self-Discipline-Brian-Tracy/dp/1593156324) The Power of Self-Discipline by Brian Tracy ✅
+- [The 10 X Rule](https://www.amazon.in/10X-Rule-Difference-Between-Success/dp/0470627603) by Grant Cardone ✅
+- [Not Nice](https://www.amazon.in/Not-Nice-Pleasing-Speaking-Unapologetically-ebook/dp/B076VVH14M) by Dr. Aziz Gazipura ✅
+- [The 80/20 Principle](https://www.amazon.in/80-20-Principle-Secret-Achieving/dp/1857883993) by Richard Koch ✅
+- [Steal Like an Artist](https://www.amazon.in/Steal-Like-Artist-Austin-Kleon/dp/0761169253) by Austin Kleon ✅
+- [Dopamine Detox](https://www.amazon.in/Dopamine-Detox-Remove-Distractions-Productivity-ebook/dp/B098MHBF23) by Thibaut Meurisse ✅
 - [Money Master the Game](https://www.amazon.com/MONEY-Master-Game-Financial-Freedom/dp/1476757860) by Tony Robbins
