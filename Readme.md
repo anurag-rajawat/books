@@ -72,7 +72,7 @@ TODO: Add book(s)
 - [Software Architecture](https://www.oreilly.com/library/view/software-architecture-the/9781492086888/) by Neal Ford, Mark Richards, Pramod Sadalage, and Zhamak Dehghani (O'Reilly)
 
 ## Development
-- [Designing APIs with Swagger & OpenAPI](https://www.manning.com/books/designing-apis-with-swagger-and-openapi) (Manning Publications) 📖
+- [Designing APIs with Swagger & OpenAPI](https://www.manning.com/books/designing-apis-with-swagger-and-openapi) (Manning Publications) ✅
 - [Full Stack GraphQL Applications](https://www.manning.com/books/fullstack-graphql-applications) by William Lyon (Manning Publications)
 - [RabbitMQ in Depth](https://www.manning.com/books/rabbitmq-in-depth) by Gavin M. Roy (Manning Publications)
 - [BDD in action](https://www.manning.com/books/bdd-in-action) by John Ferguson Smart, Jan Molak (Manning Publications)
