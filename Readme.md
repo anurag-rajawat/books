@@ -107,7 +107,7 @@ TODO: Add book(s)
    - [Advanced Shell Scripting guide](https://tldp.org/LDP/abs/abs-guide.pdf)
 
    ### 3. Containers
-   - [Podman in action](https://www.manning.com/books/podman-in-action) (Manning Publications)
+   - [Podman in action](https://www.manning.com/books/podman-in-action) (Manning Publications) ✅
 
    ### 4. Configuration Management
    - [Ansible Up and Running](https://www.oreilly.com/library/view/ansible-up-and/9781491915318/) (O'Reilly)
