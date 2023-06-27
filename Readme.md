@@ -42,14 +42,14 @@ These are some of the books on different categories I've read and plan to read.
 - **Java**
   - TODO: Add book
 - **Python**
-  - [Learning Python](https://www.oreilly.com/library/view/learning-python-5th/9781449355722/) by Mark Lutz (O'Reilly) (5th edition)
+  - [Learning Python](https://www.oreilly.com/library/view/learning-python-5th/9781449355722/) by Mark Lutz (5th edition)
 
 - **Go**
-  - [Learning Go](https://www.oreilly.com/library/view/learning-go/9781492077206/) by Jon Bodner (O'Reilly) ✅
-  - [The Go Programming Language](https://www.oreilly.com/library/view/the-go-programming/9780134190570/) by Alan A. A. Donovan, Brian W. Kernighan (O'Reilly) ✅
+  - [Learning Go](https://www.oreilly.com/library/view/learning-go/9781492077206/) by Jon Bodner ✅
+  - [The Go Programming Language](https://www.oreilly.com/library/view/the-go-programming/9780134190570/) by Alan A. A. Donovan, Brian W. Kernighan ✅
 
 ### 3. Data Structures & Algorithms
-- [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) by Aditya Y. Bhargava (Manning Publications) ✅
+- [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) by Aditya Y. Bhargava ✅
 - [Introduction to Algorithms](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/) (MIT) (4th edition) 📖
 - [Elements of Programming Interviews in Java](https://www.amazon.in/Elements-Programming-Interviews-Java-Insiders/dp/1517671272) ✅
 
@@ -63,40 +63,40 @@ TODO: Add book(s)
 TODO: Add book(s)
 
 ## Software Engineering
-- [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/) (O'Reilly)
+- [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/)
 - [The Pragmatic Programmer](https://www.amazon.in/Pragmatic-Programmer-journey-mastery-Anniversary-dp-0135957052/dp/0135957052/ref=dp_ob_title_bk) by Andrew Hunt David Hurst Thomas
-- [Skills of a Successful Software Engineer](https://www.manning.com/books/skills-of-a-successful-software-engineer) by Fernando Doglio (Manning Publications) ✅
+- [Skills of a Successful Software Engineer](https://www.manning.com/books/skills-of-a-successful-software-engineer) by Fernando Doglio ✅
 - [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) by Robert C. Martin
 - [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert C Martin ✅
-- [Own Your Tech Career](https://www.manning.com/books/own-your-tech-career) by Don Jones (Manning Publications) 📖
-- [Software Architecture](https://www.oreilly.com/library/view/software-architecture-the/9781492086888/) by Neal Ford, Mark Richards, Pramod Sadalage, and Zhamak Dehghani (O'Reilly)
+- [Own Your Tech Career](https://www.manning.com/books/own-your-tech-career) by Don Jones 📖
+- [Software Architecture](https://www.oreilly.com/library/view/software-architecture-the/9781492086888/) by Neal Ford, Mark Richards, Pramod Sadalage, and Zhamak Dehghani
 
 ## Development
-- [Designing APIs with Swagger & OpenAPI](https://www.manning.com/books/designing-apis-with-swagger-and-openapi) (Manning Publications) ✅
-- [Full Stack GraphQL Applications](https://www.manning.com/books/fullstack-graphql-applications) by William Lyon (Manning Publications)
-- [RabbitMQ in Depth](https://www.manning.com/books/rabbitmq-in-depth) by Gavin M. Roy (Manning Publications)
-- [BDD in action](https://www.manning.com/books/bdd-in-action) by John Ferguson Smart, Jan Molak (Manning Publications)
+- [Designing APIs with Swagger & OpenAPI](https://www.manning.com/books/designing-apis-with-swagger-and-openapi) ✅
+- [Full Stack GraphQL Applications](https://www.manning.com/books/fullstack-graphql-applications) by William Lyon
+- [RabbitMQ in Depth](https://www.manning.com/books/rabbitmq-in-depth) by Gavin M. Roy
+- [BDD in action](https://www.manning.com/books/bdd-in-action) by John Ferguson Smart, Jan Molak
 - [The Modern Guide to OAuth](https://fusionauth.io/resources/the-modern-guide-to-oauth.pdf) by Brian Pontarelli and Dan Moore ✅
 
 ## Data
-- [Event Stream in Action](https://www.manning.com/books/event-streams-in-action) by Alexander Dean Valentin Crettaz (Manning Publications)
-- [Streaming Data](https://www.manning.com/books/streaming-data) by Andrew G. Psaltis (Manning Publications)
-- [Parallel & High Performance Computing](https://www.manning.com/books/parallel-and-high-performance-computing) by Robert Robey, Yuliana Zamora (Manning Publications)
-- [Kafka Stream in Action](https://www.manning.com/books/kafka-streams-in-action) by William P. Bejeck Jr. (Manning Publications)
-- [Kafka in Action](https://www.manning.com/books/kafka-in-action) by Dylan Scott, Viktor Gamov, Dave Klein (Manning Publications)
+- [Event Stream in Action](https://www.manning.com/books/event-streams-in-action) by Alexander Dean Valentin Crettaz
+- [Streaming Data](https://www.manning.com/books/streaming-data) by Andrew G. Psaltis
+- [Parallel & High Performance Computing](https://www.manning.com/books/parallel-and-high-performance-computing) by Robert Robey, Yuliana Zamora
+- [Kafka Stream in Action](https://www.manning.com/books/kafka-streams-in-action) by William P. Bejeck Jr.
+- [Kafka in Action](https://www.manning.com/books/kafka-in-action) by Dylan Scott, Viktor Gamov, Dave Klein
 
 ## Operations & Cloud
-- [Knative in Action](https://www.manning.com/books/knative-in-action) by Jacques Chester (Manning Publications)
+- [Knative in Action](https://www.manning.com/books/knative-in-action) by Jacques Chester
 
 ## Distributed Systems
 - [Understanding Distributed Systems](https://www.amazon.in/Understanding-Distributed-Systems-distributed-applications/dp/1838430202) by Roberto Vitillo ✅
-- [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) by Martin Kleppmann (O’Reilly)
-- [Building Secure & Reliable Systems](https://www.oreilly.com/library/view/building-secure-and/9781492083115/) (O’Reilly)
+- [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) by Martin Kleppmann
+- [Building Secure & Reliable Systems](https://www.oreilly.com/library/view/building-secure-and/9781492083115/)
 - [Google's Bigtable Research Paper](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
 
 ## DevOps
    ### 1. Language(s)
-   - [Go for DevOps](https://www.packtpub.com/product/go-for-devops/9781801818896) by John Doak and David Justice (Packt Publications) ✅
+   - [Go for DevOps](https://www.packtpub.com/product/go-for-devops/9781801818896) by John Doak and David Justice ✅
    - Learn Go or Python [refer here](#2-programming-languages)
 
    ### 2. Linux
@@ -107,50 +107,50 @@ TODO: Add book(s)
    - [Advanced Shell Scripting guide](https://tldp.org/LDP/abs/abs-guide.pdf)
 
    ### 3. Containers
-   - [Podman in action](https://www.manning.com/books/podman-in-action) (Manning Publications) ✅
+   - [Podman in action](https://www.manning.com/books/podman-in-action) ✅
 
    ### 4. Configuration Management
-   - [Ansible Up and Running](https://www.oreilly.com/library/view/ansible-up-and/9781491915318/) (O'Reilly)
+   - [Ansible Up and Running](https://www.oreilly.com/library/view/ansible-up-and/9781491915318/)
    
    ### 5. Container Orchestration
-   - [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action) by Marko Luksa (Manning Publications) ✅
-   - [Kubernetes Up and Running](https://www.oreilly.com/library/view/kubernetes-up-and/9781098110192/) by Brendan Burns, Joe Beda and Kelsey Hightower (O'Reilly) ✅
+   - [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action) by Marko Luksa ✅
+   - [Kubernetes Up and Running](https://www.oreilly.com/library/view/kubernetes-up-and/9781098110192/) by Brendan Burns, Joe Beda and Kelsey Hightower ✅
    
    - **Kubernetes Networking**
-     - [Kubernetes Networking](https://www.oreilly.com/library/view/networking-and-kubernetes/9781492081647/) by James Strong and Vallery Lancey (O'Reilly)
+     - [Kubernetes Networking](https://www.oreilly.com/library/view/networking-and-kubernetes/9781492081647/) by James Strong and Vallery Lancey
 
    - **Kubernetes Security**
-     - [Kubernetes Security & Observability](https://www.oreilly.com/library/view/kubernetes-security-and/9781098107093/) by Brendan Creane and Amit Gupta (O'Reilly)
+     - [Kubernetes Security & Observability](https://www.oreilly.com/library/view/kubernetes-security-and/9781098107093/) by Brendan Creane and Amit Gupta
 
    ### 6. Infrastructure as Code
-   - [Terraform Up and Running](https://www.oreilly.com/library/view/terraform-up-and/9781098116736/) by Yevgeniy Brikman (O'Reilly)
-   - [Infrastructure as Code](https://www.oreilly.com/library/view/infrastructure-as-code/9781098114664/) by Kief Morris (O'Reilly)
-   - [Infrastructure as Code, Patterns and Practices](https://www.manning.com/books/infrastructure-as-code-patterns-and-practices) by Rosemary Wang (Manning Publications)
+   - [Terraform Up and Running](https://www.oreilly.com/library/view/terraform-up-and/9781098116736/) by Yevgeniy Brikman
+   - [Infrastructure as Code](https://www.oreilly.com/library/view/infrastructure-as-code/9781098114664/) by Kief Morris
+   - [Infrastructure as Code, Patterns and Practices](https://www.manning.com/books/infrastructure-as-code-patterns-and-practices) by Rosemary Wang
 
    ### 7. Service Mesh
-   - [Istio in Action](https://www.manning.com/books/istio-in-action) (Manning Publications)
+   - [Istio in Action](https://www.manning.com/books/istio-in-action)
 
    ### 8. Continuous Integration & Continuous Deployment/Delivery
-   - [Grokking Continuous Delivery](https://www.manning.com/books/grokking-continuous-delivery) by Christie Wilson (Manning Publications)
+   - [Grokking Continuous Delivery](https://www.manning.com/books/grokking-continuous-delivery) by Christie Wilson
 
    ### 9. Observability
-   - [Cloud-Native Observability with OpenTelemetry](https://www.packtpub.com/product/cloud-native-observability-with-opentelemetry/9781801077705) by Alex Boten (Packt Publications)
+   - [Cloud-Native Observability with OpenTelemetry](https://www.packtpub.com/product/cloud-native-observability-with-opentelemetry/9781801077705) by Alex Boten
   
-   - [Software Telemetry](https://www.manning.com/books/software-telemetry) by Jamie Riedesel (Manning Publications)
+   - [Software Telemetry](https://www.manning.com/books/software-telemetry) by Jamie Riedesel
 
    - **Tracing**
-     - [Distributed Tracing in Practice](https://www.oreilly.com/library/view/distributed-tracing-in/9781492056621/) (O'Reilly)
-     - [Mastering Distributed Tracing](https://www.packtpub.com/product/mastering-distributed-tracing/9781788628464) by Yuri Shkuro (Packt Publications) ✅
+     - [Distributed Tracing in Practice](https://www.oreilly.com/library/view/distributed-tracing-in/9781492056621/)
+     - [Mastering Distributed Tracing](https://www.packtpub.com/product/mastering-distributed-tracing/9781788628464) by Yuri Shkuro ✅
   
    - **Logging**
-     - [Logging in Action](https://www.manning.com/books/logging-in-action) (Manning Publications)
+     - [Logging in Action](https://www.manning.com/books/logging-in-action)
 
    ### 10. General
    - [The DevOps Handbook](https://www.amazon.in/DevOPS-Handbook-World-Class-Reliability-Organizations/dp/1942788002)
    - [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) ✅
-   - [Effective DevOps](https://www.oreilly.com/library/view/effective-devops/9781491926291/) (O’Reilly)
-   - [The DevOps Career Handbook](https://www.packtpub.com/product/the-devops-career-handbook/9781803230948) by John Knight and Nate Swenson (Packt Publications) ✅
-   - [Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/) (O'Reilly)
+   - [Effective DevOps](https://www.oreilly.com/library/view/effective-devops/9781491926291/)
+   - [The DevOps Career Handbook](https://www.packtpub.com/product/the-devops-career-handbook/9781803230948) by John Knight and Nate Swenson ✅
+   - [Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/)
 
 ## Resume
 - [The Tech Resume Inside Out](https://thetechresume.com) by Gergely Orosz
@@ -160,7 +160,7 @@ TODO: Add book(s)
 - [Rich Dad Poor Dad](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680194) by Robert T. Kiyosaki
 - [Think and Grow Rich](https://www.amazon.in/Think-Grow-Rich-Landmark-Bestseller/dp/1585424331)
 - [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)
-- [No Excuses!](https://www.amazon.com/No-Excuses-Self-Discipline-Brian-Tracy/dp/1593156324) The Power of Self-Discipline by Brian Tracy ✅
+- [No Excuses! The Power of Self-Discipline](https://www.amazon.com/No-Excuses-Self-Discipline-Brian-Tracy/dp/1593156324)  by Brian Tracy ✅
 - [The 10 X Rule](https://www.amazon.in/10X-Rule-Difference-Between-Success/dp/0470627603) by Grant Cardone ✅
 - [Not Nice](https://www.amazon.in/Not-Nice-Pleasing-Speaking-Unapologetically-ebook/dp/B076VVH14M) by Dr. Aziz Gazipura ✅
 - [The 80/20 Principle](https://www.amazon.in/80-20-Principle-Secret-Achieving/dp/1857883993) by Richard Koch ✅
