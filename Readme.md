@@ -40,7 +40,7 @@ These are some of the books on different categories I've read and plan to read.
 
 ### 2. Programming Language(s)
 - **Java**
-  - TODO: Add book
+  - [Effective Java](https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997) by Joshua Bloch (3rd edition)
 - **Python**
   - [Learning Python](https://www.oreilly.com/library/view/learning-python-5th/9781449355722/) by Mark Lutz (5th edition)
 
