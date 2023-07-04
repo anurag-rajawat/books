@@ -81,6 +81,8 @@ TODO: Add book(s)
 - [Cloud Native Spring in Action](https://www.manning.com/books/cloud-native-spring-in-action) by Thomas Vitale
 - [Spring Boot in Practice](https://www.manning.com/books/spring-boot-in-practice) by Somnath Musib
 - [Testing Web APIs](https://www.manning.com/books/testing-web-apis) by M. Winteringham
+- [Microservice APIs](https://www.manning.com/books/microservice-apis) by José Haro Peralta
+- [Building Microservice](https://www.amazon.com/Building-Microservices-Sam-Newman-ebook/dp/B09B5L4NVT) by Sam Newman (2nd Edition)
 
 ## Data
 - [Event Stream in Action](https://www.manning.com/books/event-streams-in-action) by Alexander Dean Valentin Crettaz
