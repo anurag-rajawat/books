@@ -95,7 +95,7 @@ TODO: Add book(s)
 - [Knative in Action](https://www.manning.com/books/knative-in-action) by Jacques Chester
 
 ## Distributed Systems
-- [Understanding Distributed Systems](https://www.amazon.in/Understanding-Distributed-Systems-distributed-applications/dp/1838430202) by Roberto Vitillo ✅
+- [Understanding Distributed Systems](https://www.amazon.com/Understanding-Distributed-Systems-Second-applications-ebook/dp/B09YLRB7QV) by Roberto Vitillo (2nd Edition)
 - [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) by Martin Kleppmann
 - [Building Secure & Reliable Systems](https://www.oreilly.com/library/view/building-secure-and/9781492083115/)
 - [Google's Bigtable Research Paper](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
