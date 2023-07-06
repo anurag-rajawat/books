@@ -78,7 +78,7 @@ TODO: Add book(s)
 - [BDD in action](https://www.manning.com/books/bdd-in-action) by John Ferguson Smart, Jan Molak
 - [The Modern Guide to OAuth](https://fusionauth.io/resources/the-modern-guide-to-oauth.pdf) by Brian Pontarelli and Dan Moore ✅
 - [Spring in Action](https://www.manning.com/books/spring-in-action-sixth-edition) by Craig Walls ✅
-- [Cloud Native Spring in Action](https://www.manning.com/books/cloud-native-spring-in-action) by Thomas Vitale
+- [Cloud Native Spring in Action](https://www.manning.com/books/cloud-native-spring-in-action) by Thomas Vitale 📖
 - [Spring Boot in Practice](https://www.manning.com/books/spring-boot-in-practice) by Somnath Musib
 - [Testing Web APIs](https://www.manning.com/books/testing-web-apis) by M. Winteringham
 - [Microservice APIs](https://www.manning.com/books/microservice-apis) by José Haro Peralta
