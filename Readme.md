@@ -8,7 +8,7 @@ These are some of the books on different categories I've read and plan to read.
 # Categories
 - [Core CS](#core-cs)
   - [1. Mathematics](#1-mathematics)
-  - [2. Programming Language(s)](#2-programming-languages)
+  - [2. Programming Languages](#programming-languages)
   - [3. Data Structures \& Algorithms](#3-data-structures--algorithms)
   - [4. Operating System](#4-operating-system)
   - [5. Computer Organization \& Architecture](#5-computer-organization--architecture)
@@ -39,15 +39,7 @@ These are some of the books on different categories I've read and plan to read.
 - [Concrete Mathematics](https://www.csie.ntu.edu.tw/~r97002/temp/Concrete%20Mathematics%202e.pdf) by Ronald L. Graham, Donald E. Knuth and Oren Patashnik (2nd edition)
 
 ### 2. Programming Language(s)
-- **Java**
-  - [Effective Java](https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997) by Joshua Bloch (3rd edition)
-- **Python**
-  - [Learning Python](https://www.oreilly.com/library/view/learning-python-5th/9781449355722/) by Mark Lutz (5th edition)
-
-- **Go**
-  - [Learning Go](https://www.oreilly.com/library/view/learning-go/9781492077206/) by Jon Bodner ✅
-  - [The Go Programming Language](https://www.oreilly.com/library/view/the-go-programming/9780134190570/) by Alan A. A. Donovan, Brian W. Kernighan ✅
-
+Refer [here](#programming-languages)
 ### 3. Data Structures & Algorithms
 - [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) by Aditya Y. Bhargava ✅
 - [Introduction to Algorithms](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/) (MIT) (4th edition) 📖
@@ -61,6 +53,26 @@ TODO: Add book(s)
 
 ### 6. Database Management System
 TODO: Add book(s)
+
+## Programming Languages
+- **Java**
+  - [Effective Java](https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997) by Joshua Bloch (3rd edition)
+- **Python**
+  - [Learning Python](https://www.oreilly.com/library/view/learning-python-5th/9781449355722/) by Mark Lutz (5th edition)
+  - [Fluent Python](https://www.amazon.in/Fluent-Python-Effective-Programming-Grayscale/dp/9355420838) by Luciano Ramalho (2nd edition)
+- **Go**
+  - [Learning Go](https://www.oreilly.com/library/view/learning-go/9781492077206/) by Jon Bodner ✅
+  - [The Go Programming Language](https://www.oreilly.com/library/view/the-go-programming/9780134190570/) by Alan A. A. Donovan, Brian W. Kernighan ✅
+  - [Go for DevOps](https://www.packtpub.com/product/go-for-devops/9781801818896) by John Doak and David Justice ✅
+- **Rust**
+  - [Programming Rust: Fast, Safe Systems Development](https://www.amazon.in/Programming-Rust-Systems-Development-Grayscale/dp/9391043534) by Jim Blandy, Jason Orendorff, Leonora F.S. Tindall (2nd edition)
+  - [Rust in Action](https://www.manning.com/books/rust-in-action) by Tim McNamara
+- **JavaScript**
+  - [JavaScript from Beginner to Professional](https://www.amazon.in/JavaScript-Beginner-Professional-building-interactive/dp/1800562527) by Laurence Lars Svekis, Maaike van Putten, Rob Percival
+  - [The Joy of JavaScript](https://www.manning.com/books/the-joy-of-javascript) by Luis Atencio
+- **TypesScript**
+  - [Programming TypeScript](https://www.amazon.com/Programming-TypeScript-Making-JavaScript-Applications/dp/1492037656) by Boris Cherny
+  - [Effective TypeScript](https://www.amazon.com/Effective-TypeScript-Specific-Ways-Improve/dp/1492053740) by Dan Vanderkam
 
 ## Software Engineering
 - [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/)
@@ -102,8 +114,7 @@ TODO: Add book(s)
 
 ## DevOps
    ### 1. Language(s)
-   - [Go for DevOps](https://www.packtpub.com/product/go-for-devops/9781801818896) by John Doak and David Justice ✅
-   - Learn Go or Python [refer here](#2-programming-languages)
+   - Learn Go or Python refer [here](#programming-languages)
 
    ### 2. Linux
    - [Unix and Linux System Administration Handbook](https://www.amazon.in/UNIX-Linux-System-Administration-Handbook/dp/0134277554) (5th edition)
@@ -117,11 +128,11 @@ TODO: Add book(s)
 
    ### 4. Configuration Management
    - [Ansible Up and Running](https://www.oreilly.com/library/view/ansible-up-and/9781491915318/)
-   
+
    ### 5. Container Orchestration
    - [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action) by Marko Luksa ✅
    - [Kubernetes Up and Running](https://www.oreilly.com/library/view/kubernetes-up-and/9781098110192/) by Brendan Burns, Joe Beda and Kelsey Hightower ✅
-   
+
    - **Kubernetes Networking**
      - [Kubernetes Networking](https://www.oreilly.com/library/view/networking-and-kubernetes/9781492081647/) by James Strong and Vallery Lancey
 
@@ -141,13 +152,13 @@ TODO: Add book(s)
 
    ### 9. Observability
    - [Cloud-Native Observability with OpenTelemetry](https://www.packtpub.com/product/cloud-native-observability-with-opentelemetry/9781801077705) by Alex Boten
-  
+
    - [Software Telemetry](https://www.manning.com/books/software-telemetry) by Jamie Riedesel
 
    - **Tracing**
      - [Distributed Tracing in Practice](https://www.oreilly.com/library/view/distributed-tracing-in/9781492056621/)
      - [Mastering Distributed Tracing](https://www.packtpub.com/product/mastering-distributed-tracing/9781788628464) by Yuri Shkuro ✅
-  
+
    - **Logging**
      - [Logging in Action](https://www.manning.com/books/logging-in-action)
 
