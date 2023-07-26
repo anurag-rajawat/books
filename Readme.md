@@ -105,6 +105,8 @@ TODO: Add book(s)
 
 ## Operations & Cloud
 - [Knative in Action](https://www.manning.com/books/knative-in-action) by Jacques Chester
+- [Operations Anti-Patterns, DevOps Solutions](https://www.manning.com/books/operations-anti-patterns-devops-solutions) by Jeffery D. Smith
+- [GitOps and Kubernetes](https://www.manning.com/books/gitops-and-kubernetes) by Billy Yuen, Alexander Matyushentsev, Todd Ekenstam, and Jesse Suen
 
 ## Distributed Systems
 - [Understanding Distributed Systems](https://www.amazon.com/Understanding-Distributed-Systems-Second-applications-ebook/dp/B09YLRB7QV) by Roberto Vitillo (2nd Edition)
