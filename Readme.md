@@ -119,7 +119,7 @@ TODO: Add book(s)
    - Learn Go or Python refer [here](#programming-languages)
 
    ### 2. Linux
-   - [Unix and Linux System Administration Handbook](https://www.amazon.in/UNIX-Linux-System-Administration-Handbook/dp/0134277554) (5th edition) 📖
+   - [Unix and Linux System Administration Handbook](https://www.amazon.in/UNIX-Linux-System-Administration-Handbook/dp/0134277554) (5th edition) ✅
    - [The Practice of System and Network Administration](https://www.amazon.com/Practice-System-Network-Administration-Second/dp/0321492668) (2nd edition)
    - [Networking for Systems Administrators](https://www.amazon.com/Networking-Systems-Administrators-Mastery-5/dp/0692376941)
    - [Bash Notes for Professionals](https://books.goalkicker.com/BashBook/)
