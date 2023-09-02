@@ -58,7 +58,6 @@ TODO: Add book(s)
 - **Java**
   - [Effective Java](https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997) by Joshua Bloch (3rd edition)
 - **Python**
-  - [Learning Python](https://www.oreilly.com/library/view/learning-python-5th/9781449355722/) by Mark Lutz (5th edition)
   - [Fluent Python](https://www.amazon.in/Fluent-Python-Effective-Programming-Grayscale/dp/9355420838) by Luciano Ramalho (2nd edition)
 - **Go**
   - [Learning Go](https://www.oreilly.com/library/view/learning-go/9781492077206/) by Jon Bodner ✅
@@ -71,7 +70,6 @@ TODO: Add book(s)
   - [JavaScript from Beginner to Professional](https://www.amazon.in/JavaScript-Beginner-Professional-building-interactive/dp/1800562527) by Laurence Lars Svekis, Maaike van Putten, Rob Percival
   - [The Joy of JavaScript](https://www.manning.com/books/the-joy-of-javascript) by Luis Atencio
 - **TypesScript**
-  - [Programming TypeScript](https://www.amazon.com/Programming-TypeScript-Making-JavaScript-Applications/dp/1492037656) by Boris Cherny
   - [Effective TypeScript](https://www.amazon.com/Effective-TypeScript-Specific-Ways-Improve/dp/1492053740) by Dan Vanderkam
 
 ## Software Engineering
@@ -143,7 +141,6 @@ TODO: Add book(s)
 
    ### 6. Infrastructure as Code
    - [Terraform Up and Running](https://www.oreilly.com/library/view/terraform-up-and/9781098116736/) by Yevgeniy Brikman 📖
-   - [Infrastructure as Code](https://www.oreilly.com/library/view/infrastructure-as-code/9781098114664/) by Kief Morris
    - [Infrastructure as Code, Patterns and Practices](https://www.manning.com/books/infrastructure-as-code-patterns-and-practices) by Rosemary Wang
 
    ### 7. Service Mesh
