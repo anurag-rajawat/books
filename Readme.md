@@ -140,7 +140,7 @@ TODO: Add book(s)
      - [Kubernetes Security & Observability](https://www.oreilly.com/library/view/kubernetes-security-and/9781098107093/) by Brendan Creane and Amit Gupta
 
    ### 6. Infrastructure as Code
-   - [Terraform Up and Running](https://www.oreilly.com/library/view/terraform-up-and/9781098116736/) by Yevgeniy Brikman 📖
+   - [Terraform Up and Running](https://www.oreilly.com/library/view/terraform-up-and/9781098116736/) by Yevgeniy Brikman ⏸️
    - [Infrastructure as Code, Patterns and Practices](https://www.manning.com/books/infrastructure-as-code-patterns-and-practices) by Rosemary Wang
 
    ### 7. Service Mesh
