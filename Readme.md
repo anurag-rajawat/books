@@ -147,7 +147,7 @@ TODO: Add book(s)
    - [Istio in Action](https://www.manning.com/books/istio-in-action)
 
    ### 8. Continuous Integration & Continuous Deployment/Delivery
-   - [Grokking Continuous Delivery](https://www.manning.com/books/grokking-continuous-delivery) by Christie Wilson
+   - [Grokking Continuous Delivery](https://www.manning.com/books/grokking-continuous-delivery) by Christie Wilson 📖
 
    ### 9. Observability
    - [Cloud-Native Observability with OpenTelemetry](https://www.packtpub.com/product/cloud-native-observability-with-opentelemetry/9781801077705) by Alex Boten
