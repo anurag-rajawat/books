@@ -66,11 +66,6 @@ TODO: Add book(s)
 - **Rust**
   - [Programming Rust: Fast, Safe Systems Development](https://www.amazon.in/Programming-Rust-Systems-Development-Grayscale/dp/9391043534) by Jim Blandy, Jason Orendorff, Leonora F.S. Tindall (2nd edition)
   - [Rust in Action](https://www.manning.com/books/rust-in-action) by Tim McNamara
-- **JavaScript**
-  - [JavaScript from Beginner to Professional](https://www.amazon.in/JavaScript-Beginner-Professional-building-interactive/dp/1800562527) by Laurence Lars Svekis, Maaike van Putten, Rob Percival
-  - [The Joy of JavaScript](https://www.manning.com/books/the-joy-of-javascript) by Luis Atencio
-- **TypesScript**
-  - [Effective TypeScript](https://www.amazon.com/Effective-TypeScript-Specific-Ways-Improve/dp/1492053740) by Dan Vanderkam
 
 ## Software Engineering
 - [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/)
@@ -82,8 +77,6 @@ TODO: Add book(s)
 - [Software Architecture](https://www.oreilly.com/library/view/software-architecture-the/9781492086888/) by Neal Ford, Mark Richards, Pramod Sadalage, and Zhamak Dehghani
 
 ## Development
-- [Designing APIs with Swagger & OpenAPI](https://www.manning.com/books/designing-apis-with-swagger-and-openapi) ✅
-- [Full Stack GraphQL Applications](https://www.manning.com/books/fullstack-graphql-applications) by William Lyon
 - [RabbitMQ in Depth](https://www.manning.com/books/rabbitmq-in-depth) by Gavin M. Roy
 - [BDD in action](https://www.manning.com/books/bdd-in-action-second-edition) by John Ferguson Smart, Jan Molak (2nd Edition)
 - [The Modern Guide to OAuth](https://fusionauth.io/resources/the-modern-guide-to-oauth.pdf) by Brian Pontarelli and Dan Moore ✅
@@ -114,7 +107,7 @@ TODO: Add book(s)
 
 ## DevOps
    ### 1. Language(s)
-   - Learn Go or Python refer [here](#programming-languages)
+   - Go or Python refer [here](#programming-languages)
 
    ### 2. Linux
    - [Unix and Linux System Administration Handbook](https://www.amazon.in/UNIX-Linux-System-Administration-Handbook/dp/0134277554) (5th edition) ✅
