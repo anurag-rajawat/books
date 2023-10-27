@@ -75,6 +75,8 @@ These are some of the books on different categories I've read and plan to read.
     - [Learning Go](https://www.oreilly.com/library/view/learning-go/9781492077206/) ✅
     - [The Go Programming Language](https://www.oreilly.com/library/view/the-go-programming/9780134190570/) ✅
     - [Go for DevOps](https://www.packtpub.com/product/go-for-devops/9781801818896) ✅
+    - [Concurrency in Go](https://www.amazon.com/Concurrency-Go-Tools-Techniques-Developers/dp/1491941197)
+    - [Efficient Go](https://www.oreilly.com/library/view/efficient-go/9781098105709/)
 - **Rust**
     - [Programming Rust: Fast, Safe Systems Development](https://www.amazon.in/Programming-Rust-Systems-Development-Grayscale/dp/9391043534)
     - [Rust in Action](https://www.manning.com/books/rust-in-action)
@@ -86,6 +88,8 @@ These are some of the books on different categories I've read and plan to read.
 - [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) ✅
 - [Introduction to Algorithms](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/) 📖
 - [Elements of Programming Interviews in Java](https://www.amazon.in/Elements-Programming-Interviews-Java-Insiders/dp/1517671272) ✅
+- [Classic Computer Science Problems](https://www.manning.com/books/classic-computer-science-problems-in-java)
+- [Advanced Algorithms and Data Structures](https://www.manning.com/books/advanced-algorithms-and-data-structures)
 
 ## Development
 
@@ -96,6 +100,8 @@ These are some of the books on different categories I've read and plan to read.
 - [Spring Boot in Practice](https://www.manning.com/books/spring-boot-in-practice)
 - [Testing Web APIs](https://www.manning.com/books/testing-web-apis)
 - [Building Microservice](https://www.amazon.com/Building-Microservices-Sam-Newman-ebook/dp/B09B5L4NVT)
+- [Effective Software Testing](https://www.manning.com/books/effective-software-testing)
+- [Microservices Security in Action](https://www.manning.com/books/microservices-security-in-action)
 
 ## Data
 
@@ -104,15 +110,19 @@ These are some of the books on different categories I've read and plan to read.
 - [Parallel & High Performance Computing](https://www.manning.com/books/parallel-and-high-performance-computing)
 - [Kafka Stream in Action](https://www.manning.com/books/kafka-streams-in-action)
 - [Kafka in Action](https://www.manning.com/books/kafka-in-action)
+- [Algorithms and Data Structures for Massive Datasets](https://www.manning.com/books/algorithms-and-data-structures-for-massive-datasets)
+- [Elasticsearch in Action](https://www.manning.com/books/elasticsearch-in-action)
+- [Designing Cloud Data Platforms](https://www.manning.com/books/designing-cloud-data-platforms)
 
 ## System Design
 
-- [System Design Interview – An insider's guide](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)
+- [System Design Interview – An Insider's Guide](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)
 - [System Design Interview – An Insider's Guide Volume 2](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119)
 
 ## Systems
 
 - **Unix & Linux**
+    - [Linux in Action](https://www.manning.com/books/linux-in-action)
     - [Unix and Linux System Administration Handbook](https://www.amazon.in/UNIX-Linux-System-Administration-Handbook/dp/0134277554) ✅
     - [The Practice of System and Network Administration](https://www.amazon.com/Practice-System-Network-Administration-Second/dp/0321492668)
     - [Networking for Systems Administrators](https://www.amazon.com/Networking-Systems-Administrators-Mastery-5/dp/0692376941)
@@ -134,9 +144,11 @@ These are some of the books on different categories I've read and plan to read.
 
 - **Containers**
     - [Podman in action](https://www.manning.com/books/podman-in-action) ✅
+    - [Docker Up & Running](https://www.oreilly.com/library/view/docker-up/9781098131814/)
 - **Container Orchestration**
     - [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action-second-edition) ✅
     - [Kubernetes Up and Running](https://www.oreilly.com/library/view/kubernetes-up-and/9781098110192/) ✅
+    - [Programming Kubernetes](https://www.oreilly.com/library/view/programming-kubernetes/9781492047094/)
     - **Kubernetes Networking**
         - [Kubernetes Networking](https://www.oreilly.com/library/view/networking-and-kubernetes/9781492081647/)
     - **Kubernetes Security**
