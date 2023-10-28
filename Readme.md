@@ -161,7 +161,7 @@ These are some of the books on different categories I've read and plan to read.
 
 ## Continuous Integration & Continuous Deployment/Delivery
 
-- [Grokking Continuous Delivery](https://www.manning.com/books/grokking-continuous-delivery) 📖
+- [Grokking Continuous Delivery](https://www.manning.com/books/grokking-continuous-delivery) ✅
 
 ## Service Mesh
 
