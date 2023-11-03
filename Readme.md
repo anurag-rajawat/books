@@ -100,6 +100,7 @@ These are some of the books on different categories I've read and plan to read.
 - [Spring Boot in Practice](https://www.manning.com/books/spring-boot-in-practice)
 - [Testing Web APIs](https://www.manning.com/books/testing-web-apis)
 - [Building Microservice](https://www.amazon.com/Building-Microservices-Sam-Newman-ebook/dp/B09B5L4NVT)
+- [gRPC Microservices in Go](https://www.manning.com/books/grpc-microservices-in-go)
 - [Effective Software Testing](https://www.manning.com/books/effective-software-testing)
 - [Microservices Security in Action](https://www.manning.com/books/microservices-security-in-action)
 
