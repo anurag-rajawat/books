@@ -103,6 +103,7 @@ These are some of the books on different categories I've read and plan to read.
 - [gRPC Microservices in Go](https://www.manning.com/books/grpc-microservices-in-go)
 - [Effective Software Testing](https://www.manning.com/books/effective-software-testing)
 - [Microservices Security in Action](https://www.manning.com/books/microservices-security-in-action)
+- [Learning eBPF](https://www.oreilly.com/library/view/learning-ebpf/9781098135119/)
 
 ## Data
 
@@ -140,6 +141,8 @@ These are some of the books on different categories I've read and plan to read.
 - [Knative in Action](https://www.manning.com/books/knative-in-action)
 - [Operations Anti-Patterns, DevOps Solutions](https://www.manning.com/books/operations-anti-patterns-devops-solutions)
 - [GitOps and Kubernetes](https://www.manning.com/books/gitops-and-kubernetes)
+- [Platform Engineering on Kubernetes](https://www.manning.com/books/platform-engineering-on-kubernetes)
+- [Cloud Observability in Action](https://www.manning.com/books/cloud-observability-in-action)
 
 ## Containers & Container Orchestration
 
