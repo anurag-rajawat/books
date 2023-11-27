@@ -169,7 +169,7 @@ These are some of the books on different categories I've read and plan to read.
 
 ## Service Mesh
 
-- [Istio in Action](https://www.manning.com/books/istio-in-action)
+- [Istio in Action](https://www.manning.com/books/istio-in-action) 📖
 
 ## Observability
 
