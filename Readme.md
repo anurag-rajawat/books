@@ -152,7 +152,7 @@ These are some of the books on different categories I've read and plan to read.
 - **Container Orchestration**
     - [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action-second-edition) ✅
     - [Kubernetes Up and Running](https://www.oreilly.com/library/view/kubernetes-up-and/9781098110192/) ✅
-    - [Programming Kubernetes](https://www.oreilly.com/library/view/programming-kubernetes/9781492047094/)
+    - [Programming Kubernetes](https://www.oreilly.com/library/view/programming-kubernetes/9781492047094/) ✅
     - **Kubernetes Networking**
         - [Kubernetes Networking](https://www.oreilly.com/library/view/networking-and-kubernetes/9781492081647/)
     - **Kubernetes Security**
