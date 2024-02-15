@@ -76,7 +76,7 @@ These are some of the books on different categories I've read and plan to read.
     - [The Go Programming Language](https://www.oreilly.com/library/view/the-go-programming/9780134190570/) ✅
     - [Go for DevOps](https://www.packtpub.com/product/go-for-devops/9781801818896) ✅
     - [Concurrency in Go](https://www.amazon.com/Concurrency-Go-Tools-Techniques-Developers/dp/1491941197)
-    - [Efficient Go](https://www.oreilly.com/library/view/efficient-go/9781098105709/)
+    - [Efficient Go](https://www.oreilly.com/library/view/efficient-go/9781098105709/) 📖
 - **Rust**
     - [Programming Rust: Fast, Safe Systems Development](https://www.amazon.in/Programming-Rust-Systems-Development-Grayscale/dp/9391043534)
     - [Rust in Action](https://www.manning.com/books/rust-in-action)
