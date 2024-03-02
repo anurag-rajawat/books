@@ -68,8 +68,6 @@ These are some of the books on different categories I've read and plan to read.
 - **Go**
     - [x] [Learning Go](https://www.oreilly.com/library/view/learning-go/9781492077206/)
     - [x] [The Go Programming Language](https://www.oreilly.com/library/view/the-go-programming/9780134190570/)
-    - [x] [Go for DevOps](https://www.packtpub.com/product/go-for-devops/9781801818896)
-    - [ ] [Concurrency in Go](https://www.amazon.com/Concurrency-Go-Tools-Techniques-Developers/dp/1491941197)
     - [ ] [Efficient Go](https://www.oreilly.com/library/view/efficient-go/9781098105709/)
 - **Rust**
     - [ ] [Programming Rust: Fast, Safe Systems Development](https://www.amazon.in/Programming-Rust-Systems-Development-Grayscale/dp/9391043534)
@@ -82,7 +80,6 @@ These are some of the books on different categories I've read and plan to read.
 - [x] [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
 - [ ] [Introduction to Algorithms](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)
 - [x] [Elements of Programming Interviews in Java](https://www.amazon.in/Elements-Programming-Interviews-Java-Insiders/dp/1517671272)
-- [ ] [Classic Computer Science Problems](https://www.manning.com/books/classic-computer-science-problems-in-java)
 - [ ] [Advanced Algorithms and Data Structures](https://www.manning.com/books/advanced-algorithms-and-data-structures)
 
 ## Development
@@ -92,10 +89,7 @@ These are some of the books on different categories I've read and plan to read.
 - [x] [Spring in Action](https://www.manning.com/books/spring-in-action-sixth-edition)
 - [x] [Cloud Native Spring in Action](https://www.manning.com/books/cloud-native-spring-in-action)
 - [ ] [Spring Boot in Practice](https://www.manning.com/books/spring-boot-in-practice)
-- [ ] [Testing Web APIs](https://www.manning.com/books/testing-web-apis)
 - [ ] [Building Microservice](https://www.amazon.com/Building-Microservices-Sam-Newman-ebook/dp/B09B5L4NVT)
-- [ ] [gRPC Microservices in Go](https://www.manning.com/books/grpc-microservices-in-go)
-- [ ] [Effective Software Testing](https://www.manning.com/books/effective-software-testing)
 - [ ] [Microservices Security in Action](https://www.manning.com/books/microservices-security-in-action)
 - [ ] [Learning eBPF](https://www.oreilly.com/library/view/learning-ebpf/9781098135119/)
 
@@ -118,10 +112,8 @@ These are some of the books on different categories I've read and plan to read.
 ## Systems
 
 - **Unix & Linux**
-    - [ ] [Linux in Action](https://www.manning.com/books/linux-in-action)
     - [x] [Unix and Linux System Administration Handbook](https://www.amazon.in/UNIX-Linux-System-Administration-Handbook/dp/0134277554)
     - [ ] [The Practice of System and Network Administration](https://www.amazon.com/Practice-System-Network-Administration-Second/dp/0321492668)
-    - [ ] [Networking for Systems Administrators](https://www.amazon.com/Networking-Systems-Administrators-Mastery-5/dp/0692376941)
     - [ ] [Bash Notes for Professionals](https://books.goalkicker.com/BashBook/)
     - [ ] [Advanced Shell Scripting guide](https://tldp.org/LDP/abs/abs-guide.pdf)
 - **Distributed**
