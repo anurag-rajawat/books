@@ -80,7 +80,7 @@ Books I've read and plan to read.
 
 - **Containers**
     - [x] [Podman in action](https://www.manning.com/books/podman-in-action)
-    - [ ] [Docker Up & Running](https://www.oreilly.com/library/view/docker-up/9781098131814/)
+    - [x] [Docker Up & Running](https://www.oreilly.com/library/view/docker-up/9781098131814/)
 - **Container Orchestration**
     - [x] [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action-second-edition)
     - [x] [Kubernetes Up and Running](https://www.oreilly.com/library/view/kubernetes-up-and/9781098110192/)
