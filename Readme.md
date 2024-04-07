@@ -15,6 +15,7 @@ Books I've read and plan to read.
     - [x] [Learning Go](https://www.oreilly.com/library/view/learning-go/9781492077206/)
     - [x] [The Go Programming Language](https://www.oreilly.com/library/view/the-go-programming/9780134190570/)
     - [ ] [Efficient Go](https://www.oreilly.com/library/view/efficient-go/9781098105709/)
+    - [x] [100 Go Mistakes and How to Avoid Them](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them)
 - **Rust**
     - [ ] [Learn Rust in a Month of Lunches](https://www.manning.com/books/learn-rust-in-a-month-of-lunches)
     - [ ] [Code Like a Pro in Rust](https://www.manning.com/books/code-like-a-pro-in-rust)
