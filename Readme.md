@@ -21,6 +21,7 @@ Books I've read and plan to read.
     - [ ] [Code Like a Pro in Rust](https://www.manning.com/books/code-like-a-pro-in-rust)
 - **Python**
     - [ ] [Fluent Python](https://www.amazon.in/Fluent-Python-Effective-Programming-Grayscale/dp/9355420838)
+    - [ ] [Elixir in Action](https://www.manning.com/books/elixir-in-action-third-edition)
 
 ## Data Structure & Algorithms
 
@@ -78,6 +79,9 @@ Books I've read and plan to read.
 - [ ] [GitOps and Kubernetes](https://www.manning.com/books/gitops-and-kubernetes)
 - [ ] [Platform Engineering on Kubernetes](https://www.manning.com/books/platform-engineering-on-kubernetes)
 - [ ] [Cloud Observability in Action](https://www.manning.com/books/cloud-observability-in-action)
+- [ ] [Production Kubernetes](https://www.oreilly.com/library/view/production-kubernetes/9781492092292/)
+- [ ] [Prometheus: Up & Running](https://www.oreilly.com/library/view/prometheus-up/9781098131135/)
+- [ ] [Software Supply Chain Security](https://www.oreilly.com/library/view/software-supply-chain/9781098133696/)
 
 ## Containers & Container Orchestration
 
@@ -110,6 +114,7 @@ Books I've read and plan to read.
 
 - [ ] [Cloud-Native Observability with OpenTelemetry](https://www.packtpub.com/product/cloud-native-observability-with-opentelemetry/9781801077705)
 - [ ] [Software Telemetry](https://www.manning.com/books/software-telemetry)
+- [ ] [Observability Engineering](https://www.oreilly.com/library/view/observability-engineering/9781492076438/)
 - **Tracing**
     - [ ] [Distributed Tracing in Practice](https://www.oreilly.com/library/view/distributed-tracing-in/9781492056621/)
     - [ ] [Mastering Distributed Tracing](https://www.packtpub.com/product/mastering-distributed-tracing/9781788628464)
@@ -128,6 +133,8 @@ Books I've read and plan to read.
 - [x] [Own Your Tech Career](https://www.manning.com/books/own-your-tech-career)
 - [ ] [Software Architecture](https://www.oreilly.com/library/view/software-architecture-the/9781492086888/)
 - [ ] [Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/)
+- [ ] [The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/)
+- [ ] [Becoming SRE](https://www.oreilly.com/library/view/becoming-sre/9781492090540/)
 
 ## General
 
