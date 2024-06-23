@@ -21,6 +21,7 @@ Books I've read and plan to read.
     - [ ] [Code Like a Pro in Rust](https://www.manning.com/books/code-like-a-pro-in-rust)
 - **Python**
     - [ ] [Fluent Python](https://www.amazon.in/Fluent-Python-Effective-Programming-Grayscale/dp/9355420838)
+- **Elixir**
     - [ ] [Elixir in Action](https://www.manning.com/books/elixir-in-action-third-edition)
 
 ## Data Structure & Algorithms
