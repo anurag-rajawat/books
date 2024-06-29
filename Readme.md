@@ -29,7 +29,7 @@ Books I've read and plan to read.
 - [x] [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
 - [ ] [Introduction to Algorithms](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)
 - [x] [Elements of Programming Interviews in Java](https://www.amazon.in/Elements-Programming-Interviews-Java-Insiders/dp/1517671272)
-- [ ] [Advanced Algorithms and Data Structures](https://www.manning.com/books/advanced-algorithms-and-data-structures)
+- [x] [Advanced Algorithms and Data Structures](https://www.manning.com/books/advanced-algorithms-and-data-structures)
 
 ## Development
 
