@@ -80,7 +80,7 @@ Books I've read and plan to read.
 - [ ] [GitOps and Kubernetes](https://www.manning.com/books/gitops-and-kubernetes)
 - [ ] [Platform Engineering on Kubernetes](https://www.manning.com/books/platform-engineering-on-kubernetes)
 - [ ] [Cloud Observability in Action](https://www.manning.com/books/cloud-observability-in-action)
-- [ ] [Production Kubernetes](https://www.oreilly.com/library/view/production-kubernetes/9781492092292/)
+- [x] [Production Kubernetes](https://www.oreilly.com/library/view/production-kubernetes/9781492092292/)
 - [ ] [Prometheus: Up & Running](https://www.oreilly.com/library/view/prometheus-up/9781098131135/)
 - [ ] [Software Supply Chain Security](https://www.oreilly.com/library/view/software-supply-chain/9781098133696/)
 
