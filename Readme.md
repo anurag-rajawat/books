@@ -78,7 +78,7 @@ Books I've read and plan to read.
 - [ ] [Knative in Action](https://www.manning.com/books/knative-in-action)
 - [ ] [Operations Anti-Patterns, DevOps Solutions](https://www.manning.com/books/operations-anti-patterns-devops-solutions)
 - [ ] [GitOps and Kubernetes](https://www.manning.com/books/gitops-and-kubernetes)
-- [ ] [Platform Engineering on Kubernetes](https://www.manning.com/books/platform-engineering-on-kubernetes)
+- [x] [Platform Engineering on Kubernetes](https://www.manning.com/books/platform-engineering-on-kubernetes)
 - [x] [Cloud Observability in Action](https://www.manning.com/books/cloud-observability-in-action)
 - [x] [Production Kubernetes](https://www.oreilly.com/library/view/production-kubernetes/9781492092292/)
 - [ ] [Prometheus: Up & Running](https://www.oreilly.com/library/view/prometheus-up/9781098131135/)
