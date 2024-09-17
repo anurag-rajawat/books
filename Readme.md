@@ -18,9 +18,7 @@ Books I've read and plan to read.
     - [x] [100 Go Mistakes and How to Avoid Them](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them)
 - **Rust**
     - [ ] [Learn Rust in a Month of Lunches](https://www.manning.com/books/learn-rust-in-a-month-of-lunches)
-    - [ ] [Code Like a Pro in Rust](https://www.manning.com/books/code-like-a-pro-in-rust)
-- **Python**
-    - [ ] [Fluent Python](https://www.amazon.in/Fluent-Python-Effective-Programming-Grayscale/dp/9355420838)
+    - [ ] [Effective Rust](https://www.oreilly.com/library/view/effective-rust/9781098151393/)
 - **Elixir**
     - [ ] [Elixir in Action](https://www.manning.com/books/elixir-in-action-third-edition)
 
@@ -33,12 +31,8 @@ Books I've read and plan to read.
 
 ## Development
 
-- [ ] [RabbitMQ in Depth](https://www.manning.com/books/rabbitmq-in-depth)
 - [ ] [BDD in action](https://www.manning.com/books/bdd-in-action-second-edition)
 - [x] [Spring in Action](https://www.manning.com/books/spring-in-action-sixth-edition)
-- [x] [Cloud Native Spring in Action](https://www.manning.com/books/cloud-native-spring-in-action)
-- [ ] [Spring Boot in Practice](https://www.manning.com/books/spring-boot-in-practice)
-- [ ] [Building Microservice](https://www.amazon.com/Building-Microservices-Sam-Newman-ebook/dp/B09B5L4NVT)
 - [ ] [Microservices Security in Action](https://www.manning.com/books/microservices-security-in-action)
 - [ ] [Learning eBPF](https://www.oreilly.com/library/view/learning-ebpf/9781098135119/)
 - [x] [Grokking Concurrency](https://www.manning.com/books/grokking-concurrency)
@@ -143,17 +137,3 @@ Books I've read and plan to read.
 - [x] [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
 - [ ] [Effective DevOps](https://www.oreilly.com/library/view/effective-devops/9781491926291/)
 - [x] [The DevOps Career Handbook](https://www.packtpub.com/product/the-devops-career-handbook/9781803230948)
-
-## Personal Growth
-
-- [ ] [The 5AM Club](https://www.amazon.com/AM-Club-Morning-Elevate-Life/dp/1443456624)
-- [ ] [Rich Dad Poor Dad](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680194)
-- [ ] [Think and Grow Rich](https://www.amazon.in/Think-Grow-Rich-Landmark-Bestseller/dp/1585424331)
-- [ ] [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)
-- [x] [No Excuses! The Power of Self-Discipline](https://www.amazon.com/No-Excuses-Self-Discipline-Brian-Tracy/dp/1593156324)
-- [x] [The 10 X Rule](https://www.amazon.in/10X-Rule-Difference-Between-Success/dp/0470627603)
-- [x] [Not Nice](https://www.amazon.in/Not-Nice-Pleasing-Speaking-Unapologetically-ebook/dp/B076VVH14M)
-- [x] [The 80/20 Principle](https://www.amazon.in/80-20-Principle-Secret-Achieving/dp/1857883993)
-- [x] [Steal Like an Artist](https://www.amazon.in/Steal-Like-Artist-Austin-Kleon/dp/0761169253)
-- [x] [Dopamine Detox](https://www.amazon.in/Dopamine-Detox-Remove-Distractions-Productivity-ebook/dp/B098MHBF23)
-- [ ] [Money Master the Game](https://www.amazon.com/MONEY-Master-Game-Financial-Freedom/dp/1476757860)
