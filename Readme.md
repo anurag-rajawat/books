@@ -62,7 +62,7 @@ Books I've read and plan to read.
     - [ ] [Bash Notes for Professionals](https://books.goalkicker.com/BashBook/)
     - [ ] [Advanced Shell Scripting guide](https://tldp.org/LDP/abs/abs-guide.pdf)
 - **Distributed**
-    - [ ] [Understanding Distributed Systems](https://www.amazon.com/Understanding-Distributed-Systems-Second-applications-ebook/dp/B09YLRB7QV)
+    - [x] [Understanding Distributed Systems](https://www.amazon.com/Understanding-Distributed-Systems-Second-applications-ebook/dp/B09YLRB7QV)
     - [ ] [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
     - [ ] [Building Secure & Reliable Systems](https://www.oreilly.com/library/view/building-secure-and/9781492083115/)
     - [ ] [Google's Bigtable Research Paper](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
