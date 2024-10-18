@@ -88,7 +88,7 @@ Books I've read and plan to read.
     - [x] [Kubernetes Up and Running](https://www.oreilly.com/library/view/kubernetes-up-and/9781098110192/)
     - [x] [Programming Kubernetes](https://www.oreilly.com/library/view/programming-kubernetes/9781492047094/)
     - **Kubernetes Networking**
-        - [ ] [Kubernetes Networking](https://www.oreilly.com/library/view/networking-and-kubernetes/9781492081647/)
+        - [x] [Kubernetes Networking](https://www.oreilly.com/library/view/networking-and-kubernetes/9781492081647/)
     - **Kubernetes Security**
         - [ ] [Kubernetes Security & Observability](https://www.oreilly.com/library/view/kubernetes-security-and/9781098107093/)
 
