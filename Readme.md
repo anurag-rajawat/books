@@ -90,7 +90,7 @@ Books I've read and plan to read.
     - **Kubernetes Networking**
         - [x] [Kubernetes Networking](https://www.oreilly.com/library/view/networking-and-kubernetes/9781492081647/)
     - **Kubernetes Security**
-        - [ ] [Kubernetes Security & Observability](https://www.oreilly.com/library/view/kubernetes-security-and/9781098107093/)
+        - [x] [Kubernetes Security & Observability](https://www.oreilly.com/library/view/kubernetes-security-and/9781098107093/)
 
 ## Infrastructure as Code
 
