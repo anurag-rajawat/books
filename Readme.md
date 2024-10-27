@@ -34,6 +34,7 @@ Books I've read and plan to read.
 - [ ] [BDD in action](https://www.manning.com/books/bdd-in-action-second-edition)
 - [x] [Spring in Action](https://www.manning.com/books/spring-in-action-sixth-edition)
 - [ ] [Microservices Security in Action](https://www.manning.com/books/microservices-security-in-action)
+- [x] [API Security in Action](https://www.manning.com/books/api-security-in-action)
 - [ ] [Learning eBPF](https://www.oreilly.com/library/view/learning-ebpf/9781098135119/)
 - [x] [Grokking Concurrency](https://www.manning.com/books/grokking-concurrency)
 - [x] [Learn Concurrent Programming with Go](https://www.manning.com/books/learn-concurrent-programming-with-go)
