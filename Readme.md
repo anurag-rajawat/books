@@ -132,7 +132,7 @@ Books I've read and plan to read.
 - [ ] [Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/)
 - [ ] [The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/)
 - [x] [Lead Developer Career Guide](https://www.manning.com/books/lead-developer-career-guide)
-- [ ] [Becoming SRE](https://www.oreilly.com/library/view/becoming-sre/9781492090540/)
+- [x] [Becoming SRE](https://www.oreilly.com/library/view/becoming-sre/9781492090540/)
 
 ## General
 
