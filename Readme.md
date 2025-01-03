@@ -47,7 +47,7 @@ Books I've read and plan to read.
 - [ ] [Parallel & High Performance Computing](https://www.manning.com/books/parallel-and-high-performance-computing)
 - [ ] [Kafka Stream in Action](https://www.manning.com/books/kafka-streams-in-action)
 - [ ] [Kafka in Action](https://www.manning.com/books/kafka-in-action)
-- [ ] [Algorithms and Data Structures for Massive Datasets](https://www.manning.com/books/algorithms-and-data-structures-for-massive-datasets)
+- [x] [Algorithms and Data Structures for Massive Datasets](https://www.manning.com/books/algorithms-and-data-structures-for-massive-datasets)
 - [ ] [Elasticsearch in Action](https://www.manning.com/books/elasticsearch-in-action)
 - [ ] [Designing Cloud Data Platforms](https://www.manning.com/books/designing-cloud-data-platforms)
 
