@@ -140,4 +140,4 @@ Books I've read and plan to read.
 - [x] [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
 - [ ] [Effective DevOps](https://www.oreilly.com/library/view/effective-devops/9781491926291/)
 - [x] [The DevOps Career Handbook](https://www.packtpub.com/product/the-devops-career-handbook/9781803230948)
-- [ ] [Hello, Startup](https://www.amazon.in/Hello-Startup-Yevgeniy-Brikman/dp/1491909900)
+- [x] [Hello, Startup](https://www.amazon.in/Hello-Startup-Yevgeniy-Brikman/dp/1491909900)
