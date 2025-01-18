@@ -98,6 +98,7 @@ Books I've read and plan to read.
 
 - [ ] [Terraform Up and Running](https://www.oreilly.com/library/view/terraform-up-and/9781098116736/)
 - [x] [Infrastructure as Code, Patterns and Practices](https://www.manning.com/books/infrastructure-as-code-patterns-and-practices)
+- [x] [Infrastructure as Code](https://www.oreilly.com/library/view/infrastructure-as-code/9781098114664/)
 
 ## Continuous Integration & Continuous Deployment/Delivery
 
