@@ -72,7 +72,7 @@ Books I've read and plan to read.
 ## Operations & Cloud
 
 - [ ] [Knative in Action](https://www.manning.com/books/knative-in-action)
-- [ ] [Operations Anti-Patterns, DevOps Solutions](https://www.manning.com/books/operations-anti-patterns-devops-solutions)
+- [x] [Operations Anti-Patterns, DevOps Solutions](https://www.manning.com/books/operations-anti-patterns-devops-solutions)
 - [x] [GitOps and Kubernetes](https://www.manning.com/books/gitops-and-kubernetes)
 - [x] [Platform Engineering on Kubernetes](https://www.manning.com/books/platform-engineering-on-kubernetes)
 - [x] [Cloud Observability in Action](https://www.manning.com/books/cloud-observability-in-action)
