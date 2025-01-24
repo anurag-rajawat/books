@@ -78,7 +78,7 @@ Books I've read and plan to read.
 - [x] [Cloud Observability in Action](https://www.manning.com/books/cloud-observability-in-action)
 - [x] [Production Kubernetes](https://www.oreilly.com/library/view/production-kubernetes/9781492092292/)
 - [ ] [Prometheus: Up & Running](https://www.oreilly.com/library/view/prometheus-up/9781098131135/)
-- [ ] [Software Supply Chain Security](https://www.oreilly.com/library/view/software-supply-chain/9781098133696/)
+- [x] [Software Supply Chain Security](https://www.oreilly.com/library/view/software-supply-chain/9781098133696/)
 
 ## Containers & Container Orchestration
 
