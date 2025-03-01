@@ -124,7 +124,7 @@ Books I've read and plan to read.
 ## Software Engineering
 
 - [x] [The Tech Resume Inside Out](https://thetechresume.com)
-- [ ] [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/)
+- [x] [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/)
 - [x] [The Pragmatic Programmer](https://www.amazon.in/Pragmatic-Programmer-journey-mastery-Anniversary-dp-0135957052/dp/0135957052/ref=dp_ob_title_bk)
 - [x] [Skills of a Successful Software Engineer](https://www.manning.com/books/skills-of-a-successful-software-engineer)
 - [ ] [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
