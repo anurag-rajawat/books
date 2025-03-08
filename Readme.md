@@ -21,6 +21,8 @@ Books I've read and plan to read.
     - [ ] [Effective Rust](https://www.oreilly.com/library/view/effective-rust/9781098151393/)
 - **Elixir**
     - [ ] [Elixir in Action](https://www.manning.com/books/elixir-in-action-third-edition)
+- **Python**
+    - [ ] [The Quick Python Book](https://www.manning.com/books/the-quick-python-book-fourth-edition)
 
 ## Data Structure & Algorithms
 
@@ -39,6 +41,8 @@ Books I've read and plan to read.
 - [ ] [Learning eBPF](https://www.oreilly.com/library/view/learning-ebpf/9781098135119/)
 - [x] [Grokking Concurrency](https://www.manning.com/books/grokking-concurrency)
 - [x] [Learn Concurrent Programming with Go](https://www.manning.com/books/learn-concurrent-programming-with-go)
+- [ ] [Grokking Functional Programming](https://www.manning.com/books/grokking-functional-programming)
+- [ ] [Grokking Streaming Systems](https://www.manning.com/books/grokking-streaming-systems)
 
 ## Data
 
@@ -50,6 +54,8 @@ Books I've read and plan to read.
 - [x] [Algorithms and Data Structures for Massive Datasets](https://www.manning.com/books/algorithms-and-data-structures-for-massive-datasets)
 - [ ] [Elasticsearch in Action](https://www.manning.com/books/elasticsearch-in-action)
 - [ ] [Designing Cloud Data Platforms](https://www.manning.com/books/designing-cloud-data-platforms)
+- [ ] [Learn SQL in a Month of Lunches](https://www.manning.com/books/learn-sql-in-a-month-of-lunches)
+- [ ] [Logs and Telemetry](https://www.manning.com/books/logs-and-telemetry)
 
 ## System Design
 
@@ -143,3 +149,6 @@ Books I've read and plan to read.
 - [ ] [Effective DevOps](https://www.oreilly.com/library/view/effective-devops/9781491926291/)
 - [x] [The DevOps Career Handbook](https://www.packtpub.com/product/the-devops-career-handbook/9781803230948)
 - [x] [Hello, Startup](https://www.amazon.in/Hello-Startup-Yevgeniy-Brikman/dp/1491909900)
+- [ ] [Grokking Bitcoin](https://www.manning.com/books/grokking-bitcoin)
+- [ ] [Think Like a CTO](https://www.manning.com/books/think-like-a-cto)
+- [ ] [Tech Startup Toolkit](https://www.manning.com/books/tech-startup-toolkit)
