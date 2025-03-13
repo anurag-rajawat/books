@@ -42,7 +42,7 @@ Books I've read and plan to read.
 - [x] [Grokking Concurrency](https://www.manning.com/books/grokking-concurrency)
 - [x] [Learn Concurrent Programming with Go](https://www.manning.com/books/learn-concurrent-programming-with-go)
 - [ ] [Grokking Functional Programming](https://www.manning.com/books/grokking-functional-programming)
-- [ ] [Grokking Streaming Systems](https://www.manning.com/books/grokking-streaming-systems)
+- [x] [Grokking Streaming Systems](https://www.manning.com/books/grokking-streaming-systems)
 
 ## Data
 
