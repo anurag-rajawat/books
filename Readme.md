@@ -46,7 +46,7 @@ Books I've read and plan to read.
 
 ## Data
 
-- [ ] [Event Stream in Action](https://www.manning.com/books/event-streams-in-action)
+- [x] [Event Stream in Action](https://www.manning.com/books/event-streams-in-action)
 - [x] [Streaming Data](https://www.manning.com/books/streaming-data)
 - [ ] [Parallel & High Performance Computing](https://www.manning.com/books/parallel-and-high-performance-computing)
 - [ ] [Kafka Stream in Action](https://www.manning.com/books/kafka-streams-in-action)
