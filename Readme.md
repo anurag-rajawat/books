@@ -43,7 +43,7 @@ Books I've read and plan to read.
 - [x] [Learn Concurrent Programming with Go](https://www.manning.com/books/learn-concurrent-programming-with-go)
 - [ ] [Grokking Functional Programming](https://www.manning.com/books/grokking-functional-programming)
 - [x] [Grokking Streaming Systems](https://www.manning.com/books/grokking-streaming-systems)
-- [ ] [Grokking Relational Database Design](https://www.manning.com/books/grokking-relational-database-design)
+- [x] [Grokking Relational Database Design](https://www.manning.com/books/grokking-relational-database-design)
 - [ ] [Grokking Simplicity](https://www.manning.com/books/grokking-simplicity)
 - [ ] [AI Agents in Action](https://www.manning.com/books/ai-agents-in-action)
 
