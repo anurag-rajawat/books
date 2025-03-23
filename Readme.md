@@ -57,7 +57,7 @@ Books I've read and plan to read.
 - [x] [Algorithms and Data Structures for Massive Datasets](https://www.manning.com/books/algorithms-and-data-structures-for-massive-datasets)
 - [ ] [Elasticsearch in Action](https://www.manning.com/books/elasticsearch-in-action)
 - [ ] [Designing Cloud Data Platforms](https://www.manning.com/books/designing-cloud-data-platforms)
-- [ ] [Learn SQL in a Month of Lunches](https://www.manning.com/books/learn-sql-in-a-month-of-lunches)
+- [x] [Learn SQL in a Month of Lunches](https://www.manning.com/books/learn-sql-in-a-month-of-lunches)
 - [ ] [Logs and Telemetry](https://www.manning.com/books/logs-and-telemetry)
 
 ## System Design
