@@ -106,7 +106,7 @@ Books I've read and plan to read.
 
 ## Infrastructure as Code
 
-- [ ] [Terraform in Depth](https://www.manning.com/books/terraform-in-depth)
+- [x] [Terraform in Depth](https://www.manning.com/books/terraform-in-depth)
 - [x] [Infrastructure as Code, Patterns and Practices](https://www.manning.com/books/infrastructure-as-code-patterns-and-practices)
 
 ## Continuous Integration & Continuous Deployment/Delivery
