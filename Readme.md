@@ -153,4 +153,4 @@ Books I've read and plan to read.
 - [x] [Hello, Startup](https://www.amazon.in/Hello-Startup-Yevgeniy-Brikman/dp/1491909900)
 - [ ] [Grokking Bitcoin](https://www.manning.com/books/grokking-bitcoin)
 - [x] [Think Like a CTO](https://www.manning.com/books/think-like-a-cto)
-- [ ] [Tech Startup Toolkit](https://www.manning.com/books/tech-startup-toolkit)
+- [x] [Tech Startup Toolkit](https://www.manning.com/books/tech-startup-toolkit)
