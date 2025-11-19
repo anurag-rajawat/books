@@ -71,7 +71,7 @@ My Digital Library
 
 - [x] [Amazon Web Services in Action, Third Edition](https://www.manning.com/books/amazon-web-services-in-action-third-edition)
 - [x] [AWS Security](https://www.manning.com/books/aws-security)
-- [ ] [Serverless Architectures on AWS, Second Edition](https://www.manning.com/books/serverless-architectures-on-aws-second-edition)
+- [x] [Serverless Architectures on AWS, Second Edition](https://www.manning.com/books/serverless-architectures-on-aws-second-edition)
 
 ## Machine and Deep Learning
 
