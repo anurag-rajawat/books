@@ -22,7 +22,7 @@ My Digital Library
 
 ## System Design
 
-- [ ] [Acing the System Design Interview](https://www.manning.com/books/acing-the-system-design-interview)
+- [x] [Acing the System Design Interview](https://www.manning.com/books/acing-the-system-design-interview)
 - [ ] [System Design Interview – An Insider's Guide](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)
 - [ ] [System Design Interview – An Insider's Guide Volume 2](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119)
 
