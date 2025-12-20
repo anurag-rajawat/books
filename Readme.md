@@ -176,7 +176,7 @@ My Digital Library
 
 - [x] [Becoming SRE](https://www.oreilly.com/library/view/becoming-sre/9781492090540/)
 - [x] [Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/)
-- [ ] [Chaos Engineering](https://www.manning.com/books/chaos-engineering)
+- [x] [Chaos Engineering](https://www.manning.com/books/chaos-engineering)
 
 ## DevOps
 
