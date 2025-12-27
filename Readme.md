@@ -140,7 +140,7 @@ My Digital Library
 - [ ] [Grokking Simplicity](https://www.manning.com/books/grokking-simplicity)
 - [ ] [Grokking Functional Programming](https://www.manning.com/books/grokking-functional-programming)
 - [ ] [Reactive Design Patterns](https://www.manning.com/books/reactive-design-patterns)
-- [ ] [Latency](https://www.manning.com/books/latency)
+- [x] [Latency](https://www.manning.com/books/latency)
 - [ ] [Quantum Computing in Action](https://www.manning.com/books/quantum-computing-in-action)
 - [ ] [DSLs in Action](https://www.manning.com/books/dsls-in-action)
 - [ ] [OAuth 2 in Action](https://www.manning.com/books/oauth-2-in-action)
