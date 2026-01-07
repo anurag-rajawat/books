@@ -44,11 +44,11 @@ My Digital Library
 ### Rust
 
 - [ ] [Effective Rust](https://www.oreilly.com/library/view/effective-rust/9781098151393/)
-- [ ] [Rust in Action](https://www.manning.com/books/rust-in-action)
+- [x] [Rust in Action](https://www.manning.com/books/rust-in-action)
 - [ ] [Learn Rust in a Month of Lunches](https://www.manning.com/books/learn-rust-in-a-month-of-lunches)
-- [ ] [Rust Web Development](https://www.manning.com/books/rust-web-development)
+- [x] [Rust Web Development](https://www.manning.com/books/rust-web-development)
 - [ ] [Refactoring to Rust](https://www.manning.com/books/refactoring-to-rust)
-- [ ] [Code Like a Pro in Rust](https://www.manning.com/books/code-like-a-pro-in-rust)
+- [x] [Code Like a Pro in Rust](https://www.manning.com/books/code-like-a-pro-in-rust)
 
 ### Python
 
