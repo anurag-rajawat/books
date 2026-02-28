@@ -159,7 +159,7 @@ My Digital Library
 - [ ] [Software Architecture](https://www.oreilly.com/library/view/software-architecture-the/9781492086888/)
 - [x] [The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/)
 - [x] [Lead Developer Career Guide](https://www.manning.com/books/lead-developer-career-guide)
-- [ ] [Software Mistakes and Tradeoffs](https://www.manning.com/books/software-mistakes-and-tradeoffs)
+- [x] [Software Mistakes and Tradeoffs](https://www.manning.com/books/software-mistakes-and-tradeoffs)
 - [ ] [BDD in action](https://www.manning.com/books/bdd-in-action-second-edition)
 - [ ] [Writing for Developers](https://www.manning.com/books/writing-for-developers)
 - [x] [Think Like a CTO](https://www.manning.com/books/think-like-a-cto)
