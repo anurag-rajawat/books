@@ -82,6 +82,13 @@ My Digital Library
 - [ ] [Designing Deep Learning Systems](https://www.manning.com/books/designing-deep-learning-systems)
 - [ ] [Inside Deep Learning](https://www.manning.com/books/inside-deep-learning)
 - [ ] [Effective Data Science Infrastructure](https://www.manning.com/books/effective-data-science-infrastructure)
+- [ ] [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
+- [ ] [Machine Learning Platform Engineering](https://www.manning.com/books/machine-learning-platform-engineering)
+- [ ] [AI Agents and Applications](https://www.manning.com/books/ai-agents-and-applications)
+- [ ] [Grokking AI Algorithms, Second Edition](https://www.manning.com/books/grokking-ai-algorithms-second-edition)
+- [ ] [LLMs in Production](https://www.manning.com/books/llms-in-production)
+- [ ] [Data Analysis with Python and PySpark](https://www.manning.com/books/data-analysis-with-python-and-pyspark)
+- [ ] [Data Science Bookcamp](https://www.manning.com/books/data-science-bookcamp)
 
 ## Containers & Orchestration
 
